@@ -8,10 +8,13 @@ https://github.com/FionaMacNeill/tiitextmining/raw/master/wordcloud_tutorial.zip
 
 ###### (MD5: 6ad4c2f72b01df7d3305162ff9ab9903 | sha1: 8c49ae56789f561058c471bf351db9dd4c2c81d8)<br>
 
-How to check md5 and sha1 on a Mac: 
+How to check md5 and sha1 on a Mac (YouTube Video): 
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=HHdrIlHS2-4" target="_blank"><img src="http://img.youtube.com/vi/HHdrIlHS2-4/0.jpg" 
-alt="Still from video" width="240" height="180" border="10" /></a>
+alt="Still from video" title="checking_sha_md5
+" width="240" height="180" border="10" /></a>
+
+
 
 ## Here's one I made earlier...
 
