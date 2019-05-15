@@ -1,7 +1,7 @@
 # Text Mining the Anonymous Marking Audit Trail
 Text mining the Anonymous Marking Audit Trail which can be exported to a Microsoft Excel spreadsheet file by a Turnitin administrator.
 
-Read the tutorial here: https://github.com/FionaMacNeill/textmining/blob/master/tmtutorial.md
+Read the tutorial here: https://github.com/FionaMacNeill/tiitextmining/blob/master/tmtutorial.md
 
 Download the R markdown file and tutorial materials here:<br> 
 https://github.com/FionaMacNeill/textmining/raw/master/wordcloud_tutorial.zip
