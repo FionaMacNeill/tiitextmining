@@ -1,9 +1,4 @@
----
-layout: post
-title: Text Mining the Anonymous Marking Audit Trail
-categories: [text mining, r, rstudio]
-tags: [rstats, turnitin]
----
+## Text Mining the Anonymous Marking Audit Trail
 
 ### Author: Fiona MacNeill | Date: 06/06/2019
 
