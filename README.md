@@ -15,6 +15,8 @@ alt="Still from video" width="240" height="180" border="10" /></a>
 
 ## Here's one I made earlier...
 
-![alt text](https://raw.githubusercontent.com/FionaMacNeill/tiitextmining/master/wordcloud_demo_example.png "Word Cloud Example")
 
 Yes you do get something pretty at the end, but this tutorial is also about gaining an understanding of the data.
+
+<img src="https://raw.githubusercontent.com/FionaMacNeill/tiitextmining/master/wordcloud_demo_example.png" alt= "Word Cloud Example" width="400px" />
+
