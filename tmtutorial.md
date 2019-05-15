@@ -1,4 +1,9 @@
-# Text Mining the Anonymous Marking Audit Trail Excel Export
+---
+layout: post
+title: Text Mining the Anonymous Marking Audit Trail
+categories: [text mining, r, rstudio]
+tags: [rstats, turnitin]
+---
 
 ### Author: Fiona MacNeill | Date: 06/06/2019
 
