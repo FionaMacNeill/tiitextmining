@@ -2,7 +2,7 @@
 
 ### Author: Fiona MacNeill | Date: 06/06/2019
 
-##Learning Technologies Scenario:
+## Learning Technologies Scenario:
 You have access to data from the Anonymous Marking Audit Excel file which can you download from the Turnitin administrative account. You would like to find out if there are any patterns in this text-based data and whether there are any misconceptions about anonymous marking.
 
 This data was simulated by Fiona MacNeill on 6 May 2019. This tutorial takes you from the original Microsoft Excel file, all the way to a finished word cloud. Tweaking will be needed to get the text-based data how you want it, but the good news is that the parameters that you need are in this tutorial. Certain sections are commented out as you may or may not need them (just remove the "#" in order to try them out). 
