@@ -9,7 +9,7 @@ Text mining the Anonymous Marking Audit Trail which can be exported to a Microso
 
 **Download tutorial materials, including the R Markdown file and simulated sample data [here](../master/wordcloud_tutorial.zip?raw=true).**
 
-###### Information to verify the zip file - <br> md5: 6ad4c2f72b01df7d3305162ff9ab9903  <br> sha1: 8c49ae56789f561058c471bf351db9dd4c2c81d8<br>
+###### Information to verify the zip file - <br> md5: d3e2152d544b82ea9b8686ffdc566e72  <br> sha1: 8cd62f025b7f7044254656a0fbf75debe8b586be<br>
 
 How to check md5 and sha1 on a Mac (YouTube Video): 
 
