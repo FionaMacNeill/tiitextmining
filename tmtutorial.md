@@ -34,8 +34,6 @@ There are a number of packages that you will need. The first four packages below
 
 ```{r setup, eval=FALSE, include=FALSE}
 
-knitr::opts_chunk$set(echo = TRUE)
-
 install.packages("readxl") # for reading a native MS Excel file
 install.packages("dplyr") # for extracting the data from the MS Excel file
 install.packages("tm") # for text mining
