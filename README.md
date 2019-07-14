@@ -5,7 +5,9 @@ Text mining the Anonymous Marking Audit Trail which can be exported to a Microso
 
 <hr>
 
-**Read the tutorial here:** [../master/tmtutorial.md](../master/tmtutorial.md)
+**Read the online tutorial here:** [../master/tmtutorial.md](../master/tmtutorial.md)
+
+**Or download the PDF version of the tutorial here:** [../master/wordcloud_tutorial.pdf](../master/wordcloud_tutorial.pdf)
 
 **Download tutorial materials, including the R Markdown file and simulated sample data [here](../master/wordcloud_tutorial.zip?raw=true).**
 
