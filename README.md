@@ -26,3 +26,7 @@ Yes, you do get something pretty at the end, but this tutorial is also about gai
 
 <img src="https://raw.githubusercontent.com/FionaMacNeill/tiitextmining/master/wordcloud_demo_example.png" alt= "Word Cloud Example" width="400px" />
 
+## Why might you want to do this...
+
+## Learning Technologies Scenario:
+You have access to data from the Anonymous Marking Audit Excel file which can you download from the Turnitin administrative account. You would like to find out if there are any patterns in this text-based data and whether there are any misconceptions about anonymous marking.
