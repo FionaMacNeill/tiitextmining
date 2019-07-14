@@ -2,6 +2,9 @@
 
 ### Author: Fiona MacNeill | Date: 06/06/2019
 
+##Learning Technologies Scenario:
+You have access to data from the Anonymous Marking Audit Excel file which can you download from the Turnitin administrative account. You would like to find out if there are any patterns in this text-based data and whether there are any misconceptions about anonymous marking.
+
 This data was simulated by Fiona MacNeill on 6 May 2019. This tutorial takes you from the original Microsoft Excel file, all the way to a finished word cloud. Tweaking will be needed to get the text-based data how you want it, but the good news is that the parameters that you need are in this tutorial. Certain sections are commented out as you may or may not need them (just remove the "#" in order to try them out). 
 
 Turnitin allows you to export the Anonymous Marking Audit Trail data if you have access to the administrative account and for information about how to do that, please take a look at the tutorial from help.turnitin.com: <https://help.turnitin.com/feedback-studio/moodle/direct-v2/administrator/anonymous-marking/viewing-an-anonymous-marking-audit-trail.htm?Highlight=turn%20off%20anonymous%20marking> || [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
